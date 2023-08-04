@@ -27,6 +27,6 @@ Generate FUD Ransomeware For Windows, Linux and MAC OS
     4. Make it Anti-VM.
     5. And more features will be added.
     
-# What I Want:
-    1. Follow and share
+# Contact:
+    Telegram: https://t.me/machine1337
     
